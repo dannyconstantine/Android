@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,AR: OTV  lebanon
 http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/10841.m3u8
-#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",OTV
+#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-country="LB" group-title="Lebanon",OTV
 http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/10841.m3u8
